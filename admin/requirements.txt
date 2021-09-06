@@ -1,0 +1,8 @@
+Django==3.1.3
+djangorestframework==3.12.2
+mysqlclient==2.0.1
+django-mysql==3.9
+#used in frontend to access backend
+django-cors-headers==3.5.0
+#need while connecting with rabbitmq
+pika==1.1.0
